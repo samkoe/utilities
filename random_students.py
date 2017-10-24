@@ -1,7 +1,13 @@
 import random
 
 # Define lists
-students = ["krista", "liam", "riley", "kylee", "brandon", "matthew", "hannah", "garreth", "oscar", "maya", "isaac", "valerie"]
+students = ["student1", 
+            "student2", 
+            "student3", 
+            "student3", 
+            "student4", 
+            "student5", 
+            "student6"]
 order = []
 
 # Make random list of students
