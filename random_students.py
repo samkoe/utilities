@@ -17,5 +17,5 @@ while len(order) != len(students):
         order.append(choice)
 
 # Print list to user
-for i in range(1, len(order)):
+for i in range(1, len(order) + 1):
     print(str(i) + ". " + order[i - 1])
